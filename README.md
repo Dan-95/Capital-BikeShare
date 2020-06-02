@@ -12,7 +12,6 @@ The research dataset was downloaded from UCL Machine Learning Repository (https:
 instant: record index.
 dteday : date
 season : season (1:winter, 2:spring, 3:summer, 4:fall)
-
 yr : year (0: 2011, 1:2012)
 mnth : month ( 1 to 12)
 hr : hour (0 to 23)
@@ -67,4 +66,5 @@ windspeed:          -2349.674895
 windspeed_0.3:      -7157.522811
 workingday:            74.151903
 yr:                  1946.245367
-4.	More details please check the code
+4. The R square is 0.84
+5. More details please check the code
