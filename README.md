@@ -10,12 +10,10 @@ About the datasets:
 The research dataset was downloaded from UCL Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset). The original data comes from Capital Bikeshare Official website(http://capitalbikeshare.com/system-data) It recorded the usage data of the Capital Bikeshare from 2011 to 2012. This dataset contains 17 variables and 731 records, they are:
 
 instant: record index.
-
 dteday : date
-
 season : season (1:winter, 2:spring, 3:summer, 4:fall)
 
-yr : year (0: 2011, 1:2012)(/t)
+yr : year (0: 2011, 1:2012)
 mnth : month ( 1 to 12)
 hr : hour (0 to 23)
 holiday : weather day is holiday or not (extracted from [Web Link])
