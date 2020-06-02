@@ -15,7 +15,7 @@ dteday : date
 
 season : season (1:winter, 2:spring, 3:summer, 4:fall)
 
-yr : year (0: 2011, 1:2012)
+yr : year (0: 2011, 1:2012)(/t)
 mnth : month ( 1 to 12)
 hr : hour (0 to 23)
 holiday : weather day is holiday or not (extracted from [Web Link])
