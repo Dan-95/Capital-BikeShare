@@ -7,7 +7,7 @@ The purpose of this project is focusing on analyzing the usage of Capital Bikesh
 
 About the datasets:
 
-The research dataset was downloaded from UCL Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset). The original data comes from Capital Bikeshare Official website(http://capitalbikeshare.com/system-data) It recorded the usage data of the Capital Bikeshare from 2011 to 2012. This dataset contains 17 variables and 731 records, they are:
+The research dataset was downloaded from UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset). The original data comes from Capital Bikeshare Official website(http://capitalbikeshare.com/system-data) It recorded the usage data of the Capital Bikeshare from 2011 to 2012. This dataset contains 17 variables and 731 records, they are:
 
 instant: record index.
 dteday : date
